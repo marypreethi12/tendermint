@@ -25,4 +25,6 @@ program](https://hackerone.com/tendermint).
 
 ### IMPROVEMENTS:
 
+- [mempool] \#2855 add txs from Update to cache
+
 ### BUG FIXES:
